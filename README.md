@@ -1,2 +1,3 @@
 # HTML
-This is a repository that cantains HTML5 files and CSS files.
+THis is a repository that contains CSS and HTML5 code files.
+
